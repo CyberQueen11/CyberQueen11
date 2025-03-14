@@ -1,4 +1,4 @@
-## Hi there 👋
+## An intern ready for hire!
 
 - 🔭 I’m currently working on the plugga.tech website as an intern at HiveAndFive.
 - 🌱 I’m currently studying java enterprise developement at Yrgo in Göteborg, Sweden.
